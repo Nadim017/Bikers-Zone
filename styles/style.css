@@ -1,3 +1,6 @@
 .banner_slide_btn {
   background-color: rgba(255, 0, 0, 0.36);
 }
+.footer_ankor a {
+  margin-left: 10px;
+}
